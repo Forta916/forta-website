@@ -1,0 +1,210 @@
+
+Storage Space with Style: Sizes of Hörmann Garden Boxes
+
+The Juno garden boxes are available in two sizes. Depending on the need for space and space, you can decide on your balcony or garden for one size.
+
+
+//
+
+1) Type 1320
+
+2) Type 1620
+
+
+Table:
+
+<table class="ce-table js-table " id="c46113"><thead><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Installation dimensions / technical data
+  
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Type 1320
+  
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Type 1620
+  
+    
+
+  
+        </th></tr></thead><tbody><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    External dimensions with lid (width - depth - height)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1320">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    136 - 68 x 73 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 1620">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    166 x 88 x 73 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Internal dimensions (width - depth)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1320">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    123 x 53 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 1620">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    153 x 73 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Volume
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1320">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    0.4 m3
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 1620">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    0,7 m3
+  
+    
+
+  
+      </td></tr></tbody></table>
+
+

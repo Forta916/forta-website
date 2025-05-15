@@ -1,0 +1,961 @@
+
+Hörmann equipment houses
+
+The comparison is worthwhile
+
+
+//
+
+<table class="ce-table js-table " id="c94244"><thead><tr><th class="column-3">
+    
+
+  
+      &nbsp;
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Juno equipment houses
+  
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Berry equipment houses
+  
+    
+
+  
+        </th></tr></thead><tbody><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Roof type
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Saddle roof and flat roof
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Saddle roof and pitcher
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Passage dimensions
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Depth height and width larger than with comparable equipment houses of other manufacturers
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Depth height and width larger than with comparable equipment houses of other manufacturers
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Colours
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    3 colours as standard
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    9 colors as standard
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    RAL by election
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    no RAL of your choice
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    RAL by election
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Sizes
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    11 sizes flat roof, 14 sizes saddle roof
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    3 sizes
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    motives
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    2 motifs "Modern" and “Design”
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    2 motifs "Classic" and "Modern"
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Mounting
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Installation in a modular principle – individual 480 mm wall elements
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Simple and quick assembly – high degree of prefabrication due to frame design
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Sheet metal thickness
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wall and roofing sheet thickness 0,5 mm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wall and roofing sheet thickness 0.5 mm to 0.65 mm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Stability
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Stability due to screwed floor and roof frames in 1.5 mm material thickness
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Stability through walls with steel tube frame construction – frame parts in 1.5 mm material thickness
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Window
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    floor-to-ceiling windows with 4 mm laminated safety glass possible
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    optionally small windows with Duratec glazing possible
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Door
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    1-flüglig and 2-flüglig possible
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    1-flüglig and 2-flüglig possible
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Door hinges
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    concealed straps, 3-dimensional adjustable
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    height adjustable bands
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Edges
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    carefully works all edges to minimize the risk of injury
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    without sharp edges and thus very child-proof
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wind load
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wind load 150 km/h / snow load 150 kg/m2
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wind load 150 km/h / snow load 150 kg/m2
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Roof frame
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    no roof frame for green roof possible
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    optional roof frame for green roof possible
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Bicolor (roof and door elements in different color) 
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    optional Bicolor outside
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    no Bicolor
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Coating
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    high-quality coil coating (advantage: inside lighter thanks to RAL 9002 grey white)
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    inside and outside powder-coated hot-dip galvanized steel sheet
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Pusher
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    standard stainless steel pusher set
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    standard plastic pressure set
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Guarantee
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Juno-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    20 year warranty
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Berry-Gerätehäuser">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    20 year warranty
+  
+    
+
+  
+      </td></tr></tbody></table>

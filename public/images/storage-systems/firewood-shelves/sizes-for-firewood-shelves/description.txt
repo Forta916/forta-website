@@ -1,0 +1,498 @@
+
+Sizes for firewood shelves
+
+Individually for your space requirements
+
+//
+
+The Berry firewood shelves are available in 2 different sizes. Around 3.7 bulk metres (type 1) or approximately 5.8 bulk kilometres (type 2) are available for your firewood. The wood storage is possible in two rows.
+
+
+1) Type 1
+2) Type 2
+
+Table example:
+
+<table class="ce-table js-table " id="c94932"><thead><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Installation dimensions / technical data
+  
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Type 1
+  
+    
+
+  
+        </th><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Type 2
+  
+    
+
+  
+        </th></tr></thead><tbody><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    External dimensions floor frame (width - depth)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    120 x 81 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    178 x 81 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Outside dimensions of foundation (width - depth)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    130 x 91 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    188 x 91 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Internal dimensions of firewood shelf (width - depth)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    113 x 81 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    171 x 81 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Outside dimensions of firewood shelf (width - depth)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    123 x 103 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    181 x 103 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Element height
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    178 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    178 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Total height
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    198 cm
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    198 cm
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Volume (without roof)
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    1.6 m3
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    2,5 m3
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wood storage room meter
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    approx. 2.2 room meter
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    approx. 3.5 space meters
+  
+    
+
+  
+      </td></tr><tr><th class="column-3">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Wood storage bulk meter
+  
+    
+
+  
+      </th><td class="c-table__content column-3" data-attr="Typ 1">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    approx. 3,7 bulk meter
+  
+    
+
+  
+      </td><td class="c-table__content column-3" data-attr="Typ 2">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    approx. 5.8 bulk meters
+  
+    
+
+  
+      </td></tr></tbody></table>
+
+

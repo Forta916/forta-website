@@ -1,0 +1,515 @@
+
+Our products compare
+
+All functions at a glance
+//
+
+The classification of the individual doors shows at a glance which functions the respective door fulfills with which value – of best value (3 stars), Very good value (2 stars), Good value (1 star) to not suitable (no star).
+
+<table class="ce-table js-table " id="c14368"><caption><span class="c-table__caption">
+            The classification is standard values. Better values can be achieved with optional additional equipment. 
+          </span></caption><thead><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Model
+  
+    
+
+  
+        </th><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Break-in inhibition
+  
+    
+
+  
+        </th><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Thermal insulation
+  
+    
+
+  
+        </th><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Sound insulation
+  
+    
+
+  
+        </th><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Fire shooting
+  
+    
+
+  
+        </th><th class="column-6">
+    
+
+  
+      &nbsp;
+    
+
+  
+        </th></tr></thead><tbody><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Safety door KSI Thermo46
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Safety door KSI Thermo65
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Fire protection door FS Thermo65
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Garage connection door 
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Multi-purpose door MZ Thermo46
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Multi-purpose door MZ Thermo65
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Soundproof door Thermo65
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    KSI 40-1 security door
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Function door H3 OD
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Fire protection door H8-5
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    ZK multi-purpose steel door
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Multi-purpose door MZ
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Wärmedämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Schalldämmung"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="c-icon c-table__star" width="20" height="20" aria-hidden="true" focusable="false"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><br></td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr><tr><th class="column-6">
+    
+
+  
+      
+    
+    
+    
+
+    
+
+    Interior door ZK
+  
+    
+
+  
+      </th><td class="c-table__content column-6" data-attr="Einbruchhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="Wärmedämmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="Schalldämmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="Feuerhemmung">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td><td class="c-table__content column-6" data-attr="">
+    
+
+  
+      &nbsp;
+    
+
+  
+      </td></tr></tbody></table>

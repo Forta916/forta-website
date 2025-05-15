@@ -1,0 +1,21 @@
+
+Colors for Juno equipment houses
+
+Three modern exterior colours
+
+
+//
+
+There are 3 modern standard colours for colour design: anthracite grey, anthracite metallic and grey aluminium. In addition, there is the possibility to design the roof and the door elements in a different color than the rest of the device house. Inside, the Juno equipment houses are painted in grey white.
+
+1) Standard color outside
+RAL 7016 anthracite grey
+
+2) Standard color outside
+CH 703 Anthracite Metallic
+
+3) Standard color outside
+RAL 9007 Grey aluminium
+
+4) Standard color inside
+RAL 9002 Grey and white
