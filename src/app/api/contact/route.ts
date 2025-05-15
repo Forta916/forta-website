@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 const TELEGRAM_BOT_TOKEN = '7714756137:AAFF-KiEbHckqLzUkrhuiI36jWgV7ukq6bA';
-const TELEGRAM_CHAT_ID = '-4634635994';
+const TELEGRAM_CHAT_ID = '-1002543818166';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
 
 // Helper function to escape HTML special characters
