@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, FormEvent, useEffect } from 'react';
+import { useState, FormEvent } from 'react';
 import Button from '@/components/ui/Button';
 
 export default function ContactForm() {
@@ -185,11 +185,12 @@ export default function ContactForm() {
       });
       
       if (!response.ok) {
-        const result = await response.json();
-        throw new Error(result.message || `Error ${response.status}: Failed to submit form`);
+        const errorResult = await response.json();
+        throw new Error(errorResult.message || `Error ${response.status}: Failed to submit form`);
       }
       
-      const result = await response.json();
+      // Process the successful response
+      await response.json();
       
       setFormStatus({
         type: 'success',

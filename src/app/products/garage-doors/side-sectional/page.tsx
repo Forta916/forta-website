@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿import Image from 'next/image';
+﻿﻿import Image from 'next/image';
 import Button from '@/components/ui/Button';
 import Carousel from '@/components/ui/Carousel';
 import CarouselItem from '@/components/ui/CarouselItem';
@@ -10,6 +10,8 @@ export const metadata = {
 
 export default function SideSectionalDoorPage() {
   // Sample data for side sectional door features
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const doorFeatures = [
     {
       title: "Partial Opening for Pedestrian Access",

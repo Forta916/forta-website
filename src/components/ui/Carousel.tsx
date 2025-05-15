@@ -1,6 +1,6 @@
 'use client';
 
-import { ReactNode, useRef, useState, useEffect, Children } from 'react';
+import { ReactNode, useRef, useState, useEffect, Children, useCallback } from 'react';
 import PaginationDots from './PaginationDots';
 
 interface CarouselProps {
@@ -16,7 +16,7 @@ export default function Carousel({ children, className = '', showPagination = tr
   const childrenCount = Children.count(children);
 
   // Function to calculate which slide is currently visible
-  const updateActiveIndex = () => {
+  const updateActiveIndex = useCallback(() => {
     if (!scrollContainerRef.current) return;
     
     const container = scrollContainerRef.current;
@@ -41,7 +41,7 @@ export default function Carousel({ children, className = '', showPagination = tr
     if (newIndex !== activeIndex) {
       setActiveIndex(newIndex);
     }
-  };
+  }, [activeIndex, childrenCount]);
 
   useEffect(() => {
     const container = scrollContainerRef.current;
@@ -56,7 +56,7 @@ export default function Carousel({ children, className = '', showPagination = tr
     return () => {
       container.removeEventListener('scroll', handleScroll);
     };
-  }, [activeIndex, childrenCount]);
+  }, [updateActiveIndex]);
 
   const scrollLeft = () => {
     if (scrollContainerRef.current) {

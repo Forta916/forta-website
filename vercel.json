@@ -1,0 +1,11 @@
+{
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "ignoreCommand": "next lint --max-warnings=0",
+  "installCommand": "npm install",
+  "regions": ["sfo1"],
+  "github": {
+    "silent": true
+  }
+}

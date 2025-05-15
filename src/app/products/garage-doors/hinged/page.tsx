@@ -8,6 +8,8 @@ export const metadata = {
 
 export default function RollingWingGatePage() {
   // Sample data for hinged door features
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const doorFeatures = [
     {
       title: "Customizable Door Leaf Division",
@@ -36,6 +38,8 @@ export default function RollingWingGatePage() {
   ];
 
   // Sample data for practical benefits
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const practicalBenefits = [
     {
       title: "Partial Opening",

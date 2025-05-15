@@ -1,7 +1,7 @@
 ﻿import Image from 'next/image';
 import Button from '@/components/ui/Button';
 import Carousel from '@/components/ui/Carousel';
-import CarouselItem from '@/components/ui/CarouselItem';
+// CarouselItem import removed as it's not used
 
 export const metadata = {
   title: 'Garage Side Doors | Forta - Official Hörmann Dealer in California',
@@ -9,8 +9,8 @@ export const metadata = {
 };
 
 export default function GarageSideDoorsPage() {
-  // Sample data for side door benefits
-  const doorBenefits = [
+  // Sample data for side door benefits - commented out as it's not used
+  /*const doorBenefits = [
     {
       title: "Convenient Access",
       description: "Access your garage without opening the entire door - perfect for retrieving bicycles, lawn mowers, or other equipment."
@@ -35,10 +35,10 @@ export default function GarageSideDoorsPage() {
       title: "Security Features",
       description: "Equipped with robust locking mechanisms to keep your garage secure even with the convenience of a separate entrance."
     }
-  ];
+  ];*/
 
-  // Sample data for door styles
-  const doorStyles = [
+  // Sample data for door styles - commented out as it's not used
+  /*const doorStyles = [
     {
       title: "Sectional Door Matching",
       description: "Side doors designed to perfectly match your sectional garage door's appearance, including panel design, surface finish, and color."
@@ -55,7 +55,7 @@ export default function GarageSideDoorsPage() {
       title: "Custom Designs",
       description: "Options for custom designs to meet specific architectural requirements or personal preferences."
     }
-  ];
+  ];*/
 
   return (
     <div className="bg-white">
@@ -80,9 +80,9 @@ export default function GarageSideDoorsPage() {
               <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Practical Access with Harmonious Design
               </h2>
-              <p className="mt-3 max-w-3xl text-lg text-gray-600">
-                Would you like to retrieve your bicycle or lawn mower from the garage without opening the entire door? No problem - Hörmann offers a matching side door for almost every garage door design.
-              </p>
+                <p className="mt-3 max-w-3xl text-lg text-gray-600">
+                  Would you like to retrieve your bicycle or lawn mower from the garage without opening the entire door? No problem - Hörmann offers a matching side door for almost every garage door design.
+                </p>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
                 Side doors are available with the same appearance as the garage doors, creating a harmonious overall look. This attention to design consistency ensures your home maintains a cohesive and attractive exterior.
               </p>
@@ -172,7 +172,7 @@ export default function GarageSideDoorsPage() {
                 <div>
                   <h3 className="text-2xl font-bold text-gray-900">Sectional Door with Matching Side Door</h3>
                   <p className="mt-4 text-lg text-gray-600">
-                  Design your home in perfect color harmony with Hörmann's MatchColor preferred colors for a consistent appearance across all your doors.
+                  Design your home in perfect color harmony with Hörmann&apos;s MatchColor preferred colors for a consistent appearance across all your doors.
                   </p>
                   <p className="mt-3 max-w-3xl text-lg text-gray-600">
                   The MatchColor system ensures visual consistency between your:
@@ -400,4 +400,3 @@ export default function GarageSideDoorsPage() {
     </div>
   );
 }
-

@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import Button from '@/components/ui/Button';
-import Carousel from '@/components/ui/Carousel';
-import CarouselItem from '@/components/ui/CarouselItem';
+// Removed unused imports
+// import Carousel from '@/components/ui/Carousel';
+// import CarouselItem from '@/components/ui/CarouselItem';
 
 export const metadata = {
   title: 'Garden Boxes | Storage Systems | Forta - Official Hörmann Dealer in California',

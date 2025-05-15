@@ -10,7 +10,8 @@ export const metadata = {
 };
 
 export default function FrontDoorsPage() {
-  // Sample data for front door variants
+  // Sample data for front door variants - commented out as it's not used
+  /*
   const doorVariants = [
     {
       title: "ThermoSafe",
@@ -43,6 +44,7 @@ export default function FrontDoorsPage() {
       ]
     }
   ];
+  */
 
   return (
     <div className="bg-white">
@@ -2025,4 +2027,3 @@ export default function FrontDoorsPage() {
     </div>
   );
 }
-

@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import ContactForm from '@/components/sections/ContactForm';
 
 export const metadata = {
@@ -73,7 +72,7 @@ export default function ContactPage() {
           <div className="text-center">
             <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Get in Touch</h2>
             <p className="mt-4 text-lg leading-6 text-gray-900 font-medium">
-              We'd love to hear from you. Fill out the form below and we'll get back to you as soon as possible.
+              We&apos;d love to hear from you. Fill out the form below and we&apos;ll get back to you as soon as possible.
             </p>
           </div>
           

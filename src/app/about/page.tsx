@@ -31,7 +31,7 @@ export default function AboutPage() {
                 Our Story
               </h2>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
-                Forta was established in 2008 as an official dealer of Hörmann products. With our expertise and commitment to quality, we've now expanded to serve customers in California, bringing the same dedication to excellence and customer satisfaction.
+                Forta was established in 2008 as an official dealer of Hörmann products. With our expertise and commitment to quality, we&apos;ve now expanded to serve customers in California, bringing the same dedication to excellence and customer satisfaction.
               </p>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
                 Our team consists of experienced professionals who are passionate about providing the best products and services to our customers. We believe in the quality and reliability of Hörmann products and are proud to be their official dealer.
@@ -77,10 +77,10 @@ export default function AboutPage() {
                 Our Partnership with Hörmann
               </h2>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
-                As an official dealer of Hörmann, we provide our customers with access to the highest quality German-engineered products. Hörmann is Europe's leading manufacturer of doors, with over 85 years of experience and a commitment to innovation and quality.
+                As an official dealer of Hörmann, we provide our customers with access to the highest quality German-engineered products. Hörmann is Europe&apos;s leading manufacturer of doors, with over 85 years of experience and a commitment to innovation and quality.
               </p>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
-                All Hörmann products are manufactured to the highest standards, using the latest technology and sustainable practices. The company's commitment to quality is reflected in their 10-year warranty on all sectional doors and 5-year warranty on all operators.
+                All Hörmann products are manufactured to the highest standards, using the latest technology and sustainable practices. The company&apos;s commitment to quality is reflected in their 10-year warranty on all sectional doors and 5-year warranty on all operators.
               </p>
               <div className="mt-8 flex items-center">
                 <div className="flex-shrink-0">
@@ -232,7 +232,7 @@ export default function AboutPage() {
               </div>
               <h3 className="mt-4 text-lg font-medium text-gray-900">Customer Service</h3>
               <p className="mt-2 text-base text-gray-600">
-                We prioritize our customers' needs and satisfaction, providing personalized service and support throughout the entire process.
+                We prioritize our customers&apos; needs and satisfaction, providing personalized service and support throughout the entire process.
               </p>
             </div>
           </div>

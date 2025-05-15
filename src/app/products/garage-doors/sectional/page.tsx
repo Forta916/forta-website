@@ -10,6 +10,8 @@ export const metadata = {
 
 export default function GarageSectionalDoorsPage() {
   // Sample data for sectional garage door variants
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const doorVariants = [
     {
       title: "LPU 42",
@@ -44,6 +46,8 @@ export default function GarageSectionalDoorsPage() {
   ];
 
   // Sample data for surface finishes
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const surfaceFinishes = [
     {
       title: "Woodgrain",
@@ -1208,4 +1212,3 @@ export default function GarageSectionalDoorsPage() {
     </div>
   );
 }
-

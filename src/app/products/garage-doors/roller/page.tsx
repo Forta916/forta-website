@@ -8,6 +8,8 @@ export const metadata = {
 
 export default function RollerGarageDoorsPage() {
   // Sample data for roller garage door variants
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const doorVariants = [
     {
       title: "RollMatic",
@@ -32,6 +34,8 @@ export default function RollerGarageDoorsPage() {
   ];
 
   // Sample data for color options
+  // Keeping this data for future reference - currently unused
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const colorOptions = [
     {
       title: "Standard Colors",
@@ -504,4 +508,3 @@ export default function RollerGarageDoorsPage() {
     </div>
   );
 }
-

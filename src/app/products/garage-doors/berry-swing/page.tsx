@@ -9,7 +9,8 @@ export const metadata = {
 };
 
 export default function BerrySwingDoorsPage() {
-  // Sample data for Berry swing door features
+  // Sample data for Berry swing door features - commented out as it's not used
+  /*
   const doorFeatures = [
     {
       title: "Robust Construction",
@@ -36,8 +37,10 @@ export default function BerrySwingDoorsPage() {
       description: "Berry swing doors come with multiple locking points and can be equipped with additional security features for enhanced protection."
     }
   ];
+  */
 
-  // Sample data for door designs
+  // Sample data for door designs - commented out as it's not used
+  /*
   const doorDesigns = [
     {
       title: "Steel Designs",
@@ -70,6 +73,7 @@ export default function BerrySwingDoorsPage() {
       ]
     }
   ];
+  */
 
   return (
     <div className="bg-white">
@@ -876,4 +880,3 @@ export default function BerrySwingDoorsPage() {
     </div>
   );
 }
-

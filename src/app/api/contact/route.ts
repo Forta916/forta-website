@@ -61,7 +61,17 @@ export async function POST(request: Request) {
   }
 }
 
-function formatTelegramMessage(formData: any) {
+interface ContactFormData {
+  name?: string;
+  email?: string;
+  phone?: string;
+  subject?: string;
+  message?: string;
+  productInterest?: string;
+  [key: string]: string | undefined; // For any additional fields with proper typing
+}
+
+function formatTelegramMessage(formData: ContactFormData) {
   // Sanitize all user inputs
   const name = escapeHtml(formData.name || '');
   const email = escapeHtml(formData.email || '');
@@ -70,25 +80,23 @@ function formatTelegramMessage(formData: any) {
   const message = escapeHtml(formData.message || '');
   
   // Get product interest display name
-  let productInterest = formData.productInterest || '';
-  let productInterestDisplay = '';
+  const productInterest = formData.productInterest || '';
   
-  switch (productInterest) {
-    case 'garage-doors':
-      productInterestDisplay = 'Garage Doors';
-      break;
-    case 'doors':
-      productInterestDisplay = 'Doors';
-      break;
-    case 'storage-systems':
-      productInterestDisplay = 'Storage Systems';
-      break;
-    case 'other':
-      productInterestDisplay = 'Other';
-      break;
-    default:
-      productInterestDisplay = escapeHtml(productInterest);
-  }
+  // Determine product interest display name
+  const productInterestDisplay = (() => {
+    switch (productInterest) {
+      case 'garage-doors':
+        return 'Garage Doors';
+      case 'doors':
+        return 'Doors';
+      case 'storage-systems':
+        return 'Storage Systems';
+      case 'other':
+        return 'Other';
+      default:
+        return escapeHtml(productInterest);
+    }
+  })();
 
   // Format the current date
   const now = new Date();

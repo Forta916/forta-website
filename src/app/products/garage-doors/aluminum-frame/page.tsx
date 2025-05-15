@@ -7,7 +7,8 @@ export const metadata = {
 };
 
 export default function AluminumFrameGatePage() {
-  // Sample data for aluminum-frame gate variants
+  // Sample data for aluminum-frame gate variants - commented out as it's not used
+  /*
   const gateVariants = [
     {
       title: "ART 42",
@@ -40,8 +41,10 @@ export default function AluminumFrameGatePage() {
       ]
     }
   ];
+  */
 
-  // Sample data for infill options
+  // Sample data for infill options - commented out as it's not used
+  /*
   const infillOptions = [
     {
       title: "Double Pane, Clear",
@@ -68,6 +71,7 @@ export default function AluminumFrameGatePage() {
       description: "Duratec plastic glazing with high scratch resistance for lasting transparency."
     }
   ];
+  */
 
   return (
     <div className="bg-white">
