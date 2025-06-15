@@ -74,11 +74,11 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic">
-              <p className="text-blue-200 mb-2">123 Main Street</p>
-              <p className="text-blue-200 mb-2">Los Angeles, CA 90001</p>
+              <p className="text-blue-200 mb-2">1327 Blossom Hill Way</p>
+              <p className="text-blue-200 mb-2">Roseville, CA 95661</p>
               <p className="text-blue-200 mb-2">
-                <a href="tel:+1234567890" className="hover:text-white">
-                  (123) 456-7890
+                <a href="tel:+12792143077" className="hover:text-white">
+                  (279) 214-3077
                 </a>
               </p>
               <p className="text-blue-200 mb-2">

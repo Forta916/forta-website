@@ -96,8 +96,8 @@ export default function ContactPage() {
               </div>
               <h3 className="mt-4 text-lg font-medium text-gray-900">Our Location</h3>
               <p className="mt-2 text-base text-gray-900 font-medium">
-                123 Main Street<br />
-                Los Angeles, CA 90001<br />
+                1327 Blossom Hill Way<br />
+                Roseville, CA 95661<br />
                 United States
               </p>
             </div>
@@ -111,7 +111,7 @@ export default function ContactPage() {
               </div>
               <h3 className="mt-4 text-lg font-medium text-gray-900">Contact Details</h3>
               <p className="mt-2 text-base text-gray-900 font-medium">
-                Phone: <a href="tel:+1234567890" className="text-blue-800 font-semibold hover:underline">(123) 456-7890</a><br />
+                Phone: <a href="tel:+1234567890" className="text-blue-800 font-semibold hover:underline">(279) 214-3077</a><br />
                 Email: <a href="mailto:info@forta-usa.com" className="text-blue-800 font-semibold hover:underline">info@forta-usa.com</a>
               </p>
             </div>
@@ -136,12 +136,17 @@ export default function ContactPage() {
 
       {/* Map */}
       <div className="relative h-96 w-full">
-        <div className="absolute inset-0 bg-gray-300">
-          {/* Replace with actual map component or iframe */}
-          <div className="w-full h-full flex items-center justify-center bg-gray-200">
-            <p className="text-gray-900 font-medium">Map will be displayed here</p>
-          </div>
-        </div>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3112.619529950066!2d-121.27149282530362!3d38.7265433567692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809adff8b7d3b58d%3A0x366e25c3ddf0dcf4!2s1327%20Blossom%20Hill%20Way%2C%20Roseville%2C%20CA%2095661%2C%20USA!5e0!3m2!1sen!2sbe!4v1750021114817!5m2!1sen!2sbe"
+          width="100%"
+          height="100%"
+          style={{ border: 0 }}
+          allowFullScreen
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+          title="Forta Location - 1327 Blossom Hill Way, Roseville, CA 95661"
+          className="w-full h-full"
+        />
       </div>
     </div>
   );
