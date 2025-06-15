@@ -111,7 +111,7 @@ export default function ContactPage() {
               </div>
               <h3 className="mt-4 text-lg font-medium text-gray-900">Contact Details</h3>
               <p className="mt-2 text-base text-gray-900 font-medium">
-                Phone: <a href="tel:+1234567890" className="text-blue-800 font-semibold hover:underline">(279) 214-3077</a><br />
+                Phone: <a href="tel:+12792143077" className="text-blue-800 font-semibold hover:underline">(279) 214-3077</a><br />
                 Email: <a href="mailto:info@forta-usa.com" className="text-blue-800 font-semibold hover:underline">info@forta-usa.com</a>
               </p>
             </div>
