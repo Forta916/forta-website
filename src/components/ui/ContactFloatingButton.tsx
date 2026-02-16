@@ -8,7 +8,7 @@ export default function ContactFloatingButton() {
 
   return (
     <div className="fixed bottom-6 right-6 z-50">
-      {/* Popup Menu */}
+      {/* Popup Menus */}
       {isOpen && (
         <div className="absolute bottom-16 right-0 flex flex-col gap-3 animate-in fade-in slide-in-from-bottom-2">
           <Link
