@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap locations
+Sitemap: https://forta-usa.com/sitemap.xml
+Sitemap: https://forta-usa.com/image-sitemap.xml
+Sitemap: https://forta-usa.com/product-sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /api/
+Disallow: /*.json$

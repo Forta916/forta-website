@@ -1,10 +1,17 @@
 import Image from 'next/image';
 import Button from '@/components/ui/Button';
 import ProductCard from '@/components/ui/ProductCard';
+import FAQSchema from '@/components/seo/FAQSchema';
+import FAQSection from '@/components/ui/FAQSection';
 
 export const metadata = {
   title: 'Storage Systems | Forta - Official Hörmann Dealer in California',
   description: 'Explore our range of premium Hörmann storage systems including appliance houses. High-quality German engineering for your outdoor storage needs.',
+  openGraph: {
+    title: 'Premium Hörmann Storage Systems | Forta California',
+    description: 'Explore our range of premium Hörmann storage systems including appliance houses and garden boxes. High-quality German engineering.',
+    images: ['/images/storage-systems/appliance-houses/appliance-houses/storage-space-systems-9.avif'],
+  },
 };
 
 export default function StorageSystemsPage() {
@@ -52,8 +59,37 @@ export default function StorageSystemsPage() {
     // More storage system products can be added here as they become available
   ];
 
+  // FAQ data for SEO
+  const faqs = [
+    {
+      question: "What are Hörmann appliance houses made of?",
+      answer: "Hörmann appliance houses are made from high-quality, hot-dip galvanized steel with a powder-coated finish. This construction provides excellent weather resistance, durability, and protection against corrosion.",
+    },
+    {
+      question: "Are Hörmann storage systems weather resistant?",
+      answer: "Yes, all Hörmann storage systems are designed to withstand various weather conditions. They feature hot-dip galvanized steel construction with powder-coated finishes that resist rust, UV damage, and extreme temperatures.",
+    },
+    {
+      question: "How do I assemble a Hörmann appliance house?",
+      answer: "Hörmann storage systems are designed for straightforward assembly and include detailed instructions. Most models can be assembled by two people within a few hours using basic tools. No special technical knowledge is required.",
+    },
+    {
+      question: "What can I store in a Hörmann appliance house?",
+      answer: "Hörmann appliance houses are ideal for storing garden equipment, tools, bicycles, motorcycles, outdoor furniture, BBQ grills, and other items you want to keep protected from weather and theft.",
+    },
+    {
+      question: "Do Hörmann garden boxes require maintenance?",
+      answer: "Hörmann garden boxes require minimal maintenance. Occasional cleaning with water and mild detergent is sufficient. The powder-coated finish helps prevent rust and maintains appearance for years.",
+    },
+    {
+      question: "Are Hörmann storage systems secure?",
+      answer: "Yes, Hörmann storage systems feature robust construction with reinforced doors, two-point locking systems on garden boxes, and tamper-resistant hardware. Many models can be secured with additional padlocks for enhanced security.",
+    },
+  ];
+
   return (
     <div className="bg-white">
+      <FAQSchema faqs={faqs} />
       {/* Hero Section */}
       <div className="relative bg-blue-800">
         <div className="absolute inset-0">
@@ -238,6 +274,12 @@ export default function StorageSystemsPage() {
           </div>
         </div>
       </div>
+
+      {/* FAQ Section */}
+      <FAQSection
+        faqs={faqs}
+        title="Frequently Asked Questions About Hörmann Storage Systems"
+      />
     </div>
   );
 }

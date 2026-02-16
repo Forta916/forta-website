@@ -1,10 +1,17 @@
 import Image from 'next/image';
 import Button from '@/components/ui/Button';
 import ProductCard from '@/components/ui/ProductCard';
+import FAQSchema from '@/components/seo/FAQSchema';
+import FAQSection from '@/components/ui/FAQSection';
 
 export const metadata = {
   title: 'Doors | Forta - Official Hörmann Dealer in California',
   description: 'Explore our range of premium Hörmann doors including front doors, entrance doors, and interior doors. German engineering excellence for your home.',
+  openGraph: {
+    title: 'Premium Hörmann Doors | Forta California',
+    description: 'Explore our range of premium Hörmann doors including front doors, entrance doors, and interior doors. German engineering excellence.',
+    images: ['/images/doors/previews/front-doors.avif'],
+  },
 };
 
 export default function DoorsPage() {
@@ -63,8 +70,37 @@ export default function DoorsPage() {
     },
   ];
 
+  // FAQ data for SEO
+  const faqs = [
+    {
+      question: "What are the security features of Hörmann front doors?",
+      answer: "Hörmann front doors feature multi-point locking systems (up to 7-point locking), reinforced door frames, security glazing, and optional RC2 or RC3 security certification. They also include anti-drill plates and break-in resistant hinges.",
+    },
+    {
+      question: "How energy efficient are Hörmann doors?",
+      answer: "Hörmann doors offer excellent thermal insulation with U-values as low as 0.8 W/(m²·K) for some front door models. This helps reduce energy costs and ensures comfortable indoor temperatures year-round.",
+    },
+    {
+      question: "What customization options are available for Hörmann doors?",
+      answer: "Hörmann doors offer extensive customization including over 200 RAL colors, various surface finishes (steel, aluminum, timber), different glass options, handles and door pulls, and sizes tailored to your specifications.",
+    },
+    {
+      question: "How do I maintain my Hörmann interior doors?",
+      answer: "Interior doors require minimal maintenance. Regular cleaning with a damp cloth is usually sufficient. Avoid using harsh chemicals. For timber doors, occasional polishing with appropriate wood care products is recommended.",
+    },
+    {
+      question: "Are Hörmann doors suitable for commercial use?",
+      answer: "Yes, Hörmann offers a range of functional doors designed for commercial applications including fire-retarding doors (up to EI90), smoke control doors, soundproof doors, and security doors meeting various commercial building regulations.",
+    },
+    {
+      question: "What warranty do Hörmann doors come with?",
+      answer: "Hörmann doors typically come with a 10-year warranty covering material and manufacturing defects. Operators and electronic components usually have a 2-year warranty. Extended warranties may be available through authorized dealers.",
+    },
+  ];
+
   return (
     <div className="bg-white">
+      <FAQSchema faqs={faqs} />
       {/* Hero Section - Matches garage-doors structure */}
       <div className="relative bg-blue-800">
         <div className="absolute inset-0">
@@ -249,6 +285,12 @@ export default function DoorsPage() {
           </div>
         </div>
       </div>
+
+      {/* FAQ Section */}
+      <FAQSection
+        faqs={faqs}
+        title="Frequently Asked Questions About Hörmann Doors"
+      />
     </div>
   );
 }

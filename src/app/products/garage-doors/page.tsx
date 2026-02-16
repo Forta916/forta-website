@@ -1,13 +1,47 @@
 import Image from 'next/image';
 import Button from '@/components/ui/Button';
 import ProductCard from '@/components/ui/ProductCard';
+import FAQSchema from '@/components/seo/FAQSchema';
+import FAQSection from '@/components/ui/FAQSection';
 
 export const metadata = {
   title: 'Garage Doors | Forta - Official Hörmann Dealer in California',
   description: 'Explore our range of premium Hörmann garage doors including sectional doors, roller doors, and swing doors. High-quality German engineering for your garage.',
+  openGraph: {
+    title: 'Premium Hörmann Garage Doors | Forta California',
+    description: 'Explore our range of premium Hörmann garage doors including sectional doors, roller doors, and swing doors. High-quality German engineering.',
+    images: ['/images/garage-doors/previews/berry-swing-doors-preview.avif'],
+  },
 };
 
 export default function GarageDoorsPage() {
+  // FAQ data for SEO
+  const faqs = [
+    {
+      question: "How long do Hörmann garage doors last?",
+      answer: "Hörmann garage doors are built to last for decades with proper maintenance. Hörmann offers up to 10 years warranty on sectional doors, reflecting their confidence in product quality and durability.",
+    },
+    {
+      question: "What warranty is included with Hörmann garage doors?",
+      answer: "Hörmann offers up to 10 years warranty on sectional doors and 5 years on operators. This comprehensive warranty covers materials and workmanship for peace of mind.",
+    },
+    {
+      question: "Are Hörmann garage doors energy efficient?",
+      answer: "Yes, Hörmann garage doors feature excellent thermal insulation properties with U-values as low as 0.64 W/(m²·K) for certain models. This helps reduce energy costs and contributes to a more comfortable garage environment.",
+    },
+    {
+      question: "What security features do Hörmann garage doors have?",
+      answer: "Hörmann garage doors feature advanced security systems including anti-lift protection, multi-point locking systems, and optional RC2 security equipment. All doors meet strict European security standards.",
+    },
+    {
+      question: "How do I maintain my garage door?",
+      answer: "Regular maintenance includes lubricating moving parts, checking springs and cables, cleaning the tracks, and inspecting weather seals. We recommend annual professional inspection to ensure optimal performance and safety.",
+    },
+    {
+      question: "Can I get a custom design for my garage door?",
+      answer: "Yes, Hörmann offers extensive customization options including various materials, colors, finishes, window inserts, and surface textures. You can choose from over 200 RAL colors and numerous design options to match your home's architecture.",
+    },
+  ];
   // Sample data for garage door products
   const garageDoorProducts = [
     {
@@ -105,6 +139,7 @@ export default function GarageDoorsPage() {
 
   return (
     <div className="bg-white">
+      <FAQSchema faqs={faqs} />
       {/* Hero Section */}
       <div className="relative bg-blue-800">
         <div className="absolute inset-0">
@@ -289,6 +324,12 @@ export default function GarageDoorsPage() {
           </div>
         </div>
       </div>
+
+      {/* FAQ Section */}
+      <FAQSection
+        faqs={faqs}
+        title="Frequently Asked Questions About Hörmann Garage Doors"
+      />
     </div>
   );
 }
