@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import GoogleAnalytics from "@/components/ui/GoogleAnalytics";
+import ContactFloatingButton from "@/components/ui/ContactFloatingButton";
 import SchemaOrg from "@/components/seo/SchemaOrg";
 
 const geistSans = Geist({
@@ -80,6 +81,7 @@ export default function RootLayout({
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
+        <ContactFloatingButton />
       </body>
     </html>
   );
