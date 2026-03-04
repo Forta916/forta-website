@@ -6,6 +6,7 @@ import Footer from "@/components/layout/Footer";
 import GoogleAnalytics from "@/components/ui/GoogleAnalytics";
 import ContactFloatingButton from "@/components/ui/ContactFloatingButton";
 import SchemaOrg from "@/components/seo/SchemaOrg";
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -71,9 +72,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        <SchemaOrg type="Organization" />
-      </head>
+   <head>
+  <SchemaOrg type="Organization" />
+
+  <Script
+    src="https://www.googletagmanager.com/gtag/js?id=AW-17220461363"
+    strategy="afterInteractive"
+  />
+  <Script id="gtag-aw" strategy="afterInteractive">
+    {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-17220461363');`}
+  </Script>
+</head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
       >
