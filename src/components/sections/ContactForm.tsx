@@ -189,13 +189,21 @@ export default function ContactForm() {
         throw new Error(errorResult.message || `Error ${response.status}: Failed to submit form`);
       }
       
-      // Process the successful response
-      await response.json();
-      
-      setFormStatus({
-        type: 'success',
-        message: 'Thank you for your message! We will get back to you soon.',
-      });
+    // Process the successful response
+await response.json();
+
+if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+  window.gtag('event', 'conversion', {
+    send_to: 'AW-17220461363/TNlVCLm3-tEbELPGrZNA',
+    value: 1.0,
+    currency: 'USD',
+  });
+}
+
+setFormStatus({
+  type: 'success',
+  message: 'Thank you for your message! We will get back to you soon.',
+});
       
       // Reset form
       setFormData({
